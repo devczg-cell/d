@@ -296,3 +296,5 @@ document.getElementById("commentBox").classList.remove("show");
 
 </body>
 </html>
+
+<img width="720" height="1280" alt="simis" src="https://github.com/user-attachments/assets/f5205e9c-013b-47a3-8f93-d5d82e6e98c0" />
